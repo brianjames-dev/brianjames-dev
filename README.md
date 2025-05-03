@@ -4,7 +4,7 @@
 
 - <b>NES Emulator (C++, SDL2)</b>
   - https://github.com/brianjames222/OSUcapstone
-- <b>SkinPro - Full Stack GUI Application (Python, SQlite, Flask, CustomTkinter, ReportLab, and PIL)</b>
+- <b>SkinPro - Full Stack GUI App (Python, SQlite, Flask, CustomTkinter, ReportLab, and PIL)</b>
   - https://github.com/brianjames222/SkinPro
 
 <h2>Connect with me:</h2>
