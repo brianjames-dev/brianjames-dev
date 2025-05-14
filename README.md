@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>NES Emulator (C++, SDL2)</b>
-  - https://github.com/brianjames222/OSUcapstone
+  - https://github.com/brianjames-dev/OSUcapstone
 - <b>SkinPro - Full Stack GUI App (Python, SQlite, Flask, CustomTkinter, ReportLab, and PIL)</b>
   - https://github.com/brianjames-dev/SkinPro
 
