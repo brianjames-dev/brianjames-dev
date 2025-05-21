@@ -13,23 +13,22 @@
   
 <h2>Connect with me:</h2>
 
-<table border="0">
+<table>
   <tr>
-    <td style="border-color: #0d1117;">
+    <td style="border: none;">
       <a href="https://www.youtube.com/c/brianallenjames" target="_blank">
         <img src="icons8-youtube-96.png" width="50" alt="YouTube" />
       </a>
     </td>
-    <td style="border-color: #0d1117;">
+    <td style="border: none;">
       <a href="https://www.linkedin.com/in/brianjames-dev/" target="_blank">
         <img src="icons8-linkedin-96.png" width="50" alt="LinkedIn" />
       </a>
     </td>
-    <td style="border-color: #0d1117;">
+    <td style="border: none;">
       <a href="https://www.instagram.com/brianallenjames" target="_blank">
         <img src="icons8-instagram-96.png" width="40" alt="Instagram" />
       </a>
     </td>
   </tr>
 </table>
-
