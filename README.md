@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td style="border: none;">
-      <a href="brianjames-dev@gmail.com" target="_blank">
+      <a href="brianjames.dev@gmail.com" target="_blank">
         <img src="icons8-gmail-96.png" width="50" alt="Gmail" />
       </a>
     </td>
