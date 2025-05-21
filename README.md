@@ -15,6 +15,7 @@
 [<img align="left" alt="Brian James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Brian James | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://linkedin.com/in/brianjames-dev
-[instagram]: https://www.instagram.com/brianallenjames
-[youtube]: https://www.youtube.com/c/brianallenjames
+[<img align="left" alt="Brian James | YouTube" width="22px" style="filter: invert(100%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Brian James | LinkedIn" width="22px" style="filter: invert(100%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Brian James | Instagram" width="22px" style="filter: invert(100%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
