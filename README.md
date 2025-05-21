@@ -21,11 +21,11 @@
 
 <table>
   <tr>
-    <td style="border: none;">
-      <a href="brianjames.dev@gmail.com" target="_blank">
-        <img src="icons8-gmail-96.png" width="50" alt="Gmail" />
-      </a>
-    </td>
+  <td style="border: none;">
+    <a href="mailto:brianjames.dev@gmail.com">
+      <img src="icons8-gmail-96.png" width="50" alt="Gmail" />
+    </a>
+  </td>
     <td style="border: none;">
       <a href="https://www.linkedin.com/in/brianjames-dev/" target="_blank">
         <img src="icons8-linkedin-96.png" width="50" alt="LinkedIn" />
