@@ -12,5 +12,5 @@
 <h2>Connect with me:</h2>
 
 <a href="https://www.youtube.com/c/brianallenjames" target="_blank">
-  <img src="icons8-youtube-96.png" alt="YouTube" />
+  <img src="icons8-youtube-96.png" width=50 alt="YouTube" />
 </a>
