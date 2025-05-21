@@ -1,4 +1,4 @@
-<h1>Hey, I'm Brian! <br/><a href="https://github.com/brianjames-dev">Programmer</a>, <a href="https://www.linkedin.com/in/brianjames-dev/">Software Developer</a>, <a href="https://www.youtube.com/c/brianallenjames">YouTuber</a></h1>
+<h1>Hey, I'm Brian! <br/><a href="https://github.com/brianjames-dev">Programmer</a> | <a href="https://www.linkedin.com/in/brianjames-dev/">Software Developer</a> | <a href="https://www.youtube.com/c/brianallenjames">YouTuber</a></h1>
 
 <h2>Software Development Projects:</h2>
 
