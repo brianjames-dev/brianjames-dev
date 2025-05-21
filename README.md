@@ -11,11 +11,6 @@
   
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Brian James | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Brian James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Brian James | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="Brian James | YouTube" width="22px" style="filter: invert(100%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Brian James | LinkedIn" width="22px" style="filter: invert(100%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Brian James | Instagram" width="22px" style="filter: invert(100%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<a href="https://www.youtube.com/c/brianallenjames" target="_blank">
+  <img src="icons8-youtube-96.png" alt="YouTube" />
+</a>
