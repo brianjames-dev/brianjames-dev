@@ -13,7 +13,7 @@
 
 <h2>Data Science Projects:</h2>
 
-- <b>Credit Card Fraud ML Model - >>Tech Stack Here<<</b><br/>
+- <b>Credit Card Fraud ML Models - >>Tech Stack Here<<</b><br/>
   ➤ https://github.com/brianjames-dev/SkinPro
 
   
