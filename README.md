@@ -2,11 +2,13 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>NES Emulator (C++, SDL2)</b>
-  - https://github.com/brianjames-dev/OSUcapstone
 - <b>SkinPro - Full Stack GUI App (Python, SQlite, Flask, CustomTkinter, ReportLab, and PIL)</b>
-  - https://github.com/brianjames-dev/SkinPro
-
+  ➤ https://github.com/brianjames-dev/SkinPro
+- <b>NES Emulator (C++, SDL2, Dear ImGUI)</b>
+  ➤ https://github.com/brianjames-dev/OSUcapstone
+- <b>MERN Task Tracker Website</b> (MongoDB, Express.js, React, Node.js)  
+  ➤ https://github.com/brianjames-dev/mern-task-app
+  
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Brian James | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
