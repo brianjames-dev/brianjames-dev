@@ -8,7 +8,7 @@
 - <b>NES Emulator (C++, SDL2, Dear ImGUI)</b><br/>
   ➤ https://github.com/brianjames-dev/OSUcapstone
 
-- <b>MERN Task Tracker Website</b> (MongoDB, Express.js, React, Node.js)<br/>
+- <b>MERN Task Tracker Website</b> (JavaScript, MongoDB, Express.js, React, Node.js, HTML/CSS)<br/>
   ➤ https://github.com/brianjames-dev/mern-task-app
   
 <h2>Connect with me:</h2>
