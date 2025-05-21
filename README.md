@@ -22,8 +22,8 @@
 <table>
   <tr>
     <td style="border: none;">
-      <a href="https://www.youtube.com/c/brianallenjames" target="_blank">
-        <img src="icons8-youtube-96.png" width="50" alt="YouTube" />
+      <a href="brianjames-dev@gmail.com" target="_blank">
+        <img src="icons8-gmail-96.png" width="50" alt="Gmail" />
       </a>
     </td>
     <td style="border: none;">
@@ -34,6 +34,11 @@
     <td style="border: none;">
       <a href="https://www.instagram.com/brianallenjames" target="_blank">
         <img src="icons8-instagram-96.png" width="40" alt="Instagram" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://www.youtube.com/c/brianallenjames" target="_blank">
+        <img src="icons8-youtube-96.png" width="50" alt="YouTube" />
       </a>
     </td>
   </tr>
