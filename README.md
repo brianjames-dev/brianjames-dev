@@ -8,8 +8,11 @@
 - <b>NES Emulator (C++, SDL2, Dear ImGUI)</b><br/>
   ➤ https://github.com/brianjames-dev/OSUcapstone
 
-- <b>MERN Task Tracker Website</b> (JavaScript, MongoDB, Express.js, React, Node.js, HTML/CSS)<br/>
+- <b>MERN Task Tracker Website</b> (JavaScript, MongoDB, Express.js, React, Node.js, and HTML/CSS)<br/>
   ➤ https://github.com/brianjames-dev/mern-task-app
+
+- <b>passNerd – Password Manager App</b> (Python, CustomTkinter, and PIL)<br/>
+  ➤ https://github.com/brianjames-dev/passNerd
 
 <h2>Data Science Projects:</h2>
 
