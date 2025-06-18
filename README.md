@@ -20,7 +20,7 @@
   ➤ https://github.com/brianjames-dev/SkinPro
 
   
-<h2>Connect with me:</h2>
+<h2>Let's connect:</h2>
 
 <table>
   <tr>
