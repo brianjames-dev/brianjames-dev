@@ -2,7 +2,7 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>BookieBot – Autonomous Agentic AI Budget Tracker Bot</b> (Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)<br/>
+- <b>BookieBot – Autonomous AI Budget Tracker Agent</b> (Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)<br/>
   ➤ https://github.com/brianjames-dev/bookiebot
   
 - <b>SkinPro - Full Stack GUI App (Python, SQLite, Flask, CustomTkinter, ReportLab, and PIL)</b><br/>
