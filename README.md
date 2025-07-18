@@ -1,26 +1,27 @@
-<h1>Hey, I'm Brian!</h1>
+# Hey, I'm Brian!
 
-<h2>Software Development Projects:</h2>
+## Software Development Projects
 
-- <b>BookieBot – Autonomous AI Budget Tracker Agent</b> (Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)<br/>
-  ➤ https://github.com/brianjames-dev/bookiebot
-  
-- <b>SkinPro - Full Stack GUI App (Python, SQLite, Flask, CustomTkinter, ReportLab, and PIL)</b><br/>
-  ➤ https://github.com/brianjames-dev/SkinPro
+- [**BookieBot – Autonomous AI Budget Tracker Agent**](https://github.com/brianjames-dev/bookiebot)  
+  *(Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)*
 
-- <b>NES Emulator (C++, SDL2, Dear ImGUI)</b><br/>
-  ➤ https://github.com/brianjames-dev/OSUcapstone
+- [**SkinPro – Full Stack GUI App**](https://github.com/brianjames-dev/SkinPro)  
+  *(Python, SQLite, Flask, CustomTkinter, ReportLab, PIL)*
 
-- <b>MERN Task Tracker Website</b> (JavaScript, MongoDB, Express.js, React, Node.js, and HTML/CSS)<br/>
-  ➤ https://github.com/brianjames-dev/mern-task-app
+- [**NES Emulator**](https://github.com/brianjames-dev/OSUcapstone)  
+  *(C++, SDL2, Dear ImGUI)*
 
-- <b>passNerd – Password Manager App</b> (Python, CustomTkinter, and PIL)<br/>
-  ➤ https://github.com/brianjames-dev/passNerd
+- [**MERN Task Tracker Website**](https://github.com/brianjames-dev/mern-task-app)  
+  *(JavaScript, MongoDB, Express.js, React, Node.js, HTML/CSS)*
 
-<h2>Data Science Projects:</h2>
+- [**passNerd – Password Manager App**](https://github.com/brianjames-dev/passNerd)  
+  *(Python, CustomTkinter, PIL)*
 
-- <b>Credit Card Fraud ML Models - >>Tech Stack Here<<</b><br/>
-  ➤ https://docs.google.com/document/d/1NGwQWTvUHTWkof20oiIK7vtYFCEij8GZ-qFOLGoWnKg/edit?usp=sharing
+## Data Science Projects
+
+- [**Credit Card Fraud ML Models**](https://docs.google.com/document/d/1NGwQWTvUHTWkof20oiIK7vtYFCEij8GZ-qFOLGoWnKg/edit?usp=sharing)  
+  *(Python, scikit-learn, Pandas, Matplotlib, NumPy)*
+
 
   
 <h2>Let's connect:</h2>
