@@ -20,7 +20,7 @@
 <h2>Data Science Projects:</h2>
 
 - <b>Credit Card Fraud ML Models - >>Tech Stack Here<<</b><br/>
-  ➤ https://github.com/brianjames-dev/SkinPro
+  ➤ https://docs.google.com/document/d/1NGwQWTvUHTWkof20oiIK7vtYFCEij8GZ-qFOLGoWnKg/edit?usp=sharing
 
   
 <h2>Let's connect:</h2>
