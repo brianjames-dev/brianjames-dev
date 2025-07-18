@@ -5,7 +5,7 @@
 - [**BookieBot – Autonomous AI Budget Tracker Agent**](https://github.com/brianjames-dev/bookiebot)  
   *(Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)*
 
-- [**SkinPro – Full Stack GUI App**](https://github.com/brianjames-dev/SkinPro)  
+- [**SkinPro – Full Stack Desktop App**](https://github.com/brianjames-dev/SkinPro)  
   *(Python, SQLite, Flask, CustomTkinter, ReportLab, PIL)*
 
 - [**NES Emulator**](https://github.com/brianjames-dev/OSUcapstone)  
