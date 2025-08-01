@@ -20,10 +20,11 @@
 ## Data Science Projects
 
 - [**Credit Card Fraud ML Models**](https://docs.google.com/document/d/1NGwQWTvUHTWkof20oiIK7vtYFCEij8GZ-qFOLGoWnKg/edit?usp=sharing)  
-  *(Python, scikit-learn, Pandas, Matplotlib, NumPy)*
+  *(Python, scikit-learn, Pandas, Matplotlib, NumPy, Kaggle)*
 
+- [**Homelessness in America Research w/ ML models**](https://docs.google.com/document/d/1ifwazaJBAdWyDTQ7yeC3JPvgaupWqK9-MJ5Sc0_kXbM/edit?usp=drivesdk)
+  *(Python, scikit-learn, Pandas, Matplotlib, NumPy, Kaggle)*
 
-  
 <h2>Let's connect:</h2>
 
 <table>
