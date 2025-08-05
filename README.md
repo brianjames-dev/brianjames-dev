@@ -1,6 +1,8 @@
 # Hey, I'm Brian!
 
 ## Software Development Projects
+- [**Serverless Portfolio - Website**](https://github.com/brianjames-dev/portfolio-website)  
+  *(Javascript, React, Google CSS, HTML, AWS (S3, SES, Cloudfront, Lambda)*
 
 - [**BookieBot – Autonomous AI Budget Tracker Agent**](https://github.com/brianjames-dev/bookiebot)  
   *(Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)*
@@ -22,7 +24,7 @@
 - [**Credit Card Fraud ML Models**](https://docs.google.com/document/d/1NGwQWTvUHTWkof20oiIK7vtYFCEij8GZ-qFOLGoWnKg/edit?usp=sharing)  
   *(Python, scikit-learn, Pandas, Matplotlib, NumPy, Kaggle)*
 
-- [**Homelessness in America Research w/ ML models**](https://docs.google.com/document/d/1ifwazaJBAdWyDTQ7yeC3JPvgaupWqK9-MJ5Sc0_kXbM/edit?usp=drivesdk)
+- [**Homelessness in America Research w/ ML models**](https://docs.google.com/document/d/1ifwazaJBAdWyDTQ7yeC3JPvgaupWqK9-MJ5Sc0_kXbM/edit?usp=drivesdk)  
   *(Python, scikit-learn, Pandas, Matplotlib, NumPy, Kaggle)*
 
 <h2>Let's connect:</h2>
