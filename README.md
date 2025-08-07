@@ -4,7 +4,7 @@
 - [**Serverless Portfolio - Website**](https://github.com/brianjames-dev/portfolio-website)  
   *(Javascript, React, Google CSS, HTML, AWS (S3, SES, Cloudfront, Lambda)*
 
-- [**BookieBot – Autonomous AI Budget Tracker Agent**](https://github.com/brianjames-dev/bookiebot)  
+- [**BookieBot – AI Agent | Finance**](https://github.com/brianjames-dev/bookiebot)  
   *(Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)*
 
 - [**SkinPro – Full Stack Desktop App**](https://github.com/brianjames-dev/SkinPro)  
