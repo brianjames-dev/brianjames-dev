@@ -2,7 +2,7 @@
 
 ## Software Development Projects
 - [**Serverless Portfolio - Website**](https://github.com/brianjames-dev/portfolio-website)  
-  *(Javascript, React, Google CSS, HTML, AWS (S3, SES, Cloudfront, Lambda)*
+  *(Javascript, React, CSS, HTML, AWS (S3, SES, Cloudfront, Lambda)*
 
 - [**BookieBot – AI Agent | Finance**](https://github.com/brianjames-dev/bookiebot)  
   *(Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)*
