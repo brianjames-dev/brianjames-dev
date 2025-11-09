@@ -2,13 +2,13 @@
 
 ## Software Development Projects
 - [**snoozeAI – Smart Notification Triage**](https://github.com/brianjames-dev/snoozeAI)  
-  *(Python/FastAPI or Flask, React (frontend), Push/Local Notifications, SQLite)*
+  *(Swift (iOS), Xcode, Python, FastAPI, OpenAI API, Firebase/Firestore, GCP, APNs/FCM, SQLite, Docker)*
 
 - [**BookieBot – AI Agent | Finance**](https://github.com/brianjames-dev/bookiebot)  
   *(Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)*
 
 - **MarketScope – Local Ads & Lead Intelligence** *(private)*  
-  *(TypeScript/React, FastAPI, PostgreSQL/Redis, Google Ads & SerpAPI integration)*
+  *(TypeScript, React, Python, FastAPI, PostgreSQL, Redis, Docker, GCP, SerpAPI, Google Ads, Pandas, Playwright)*
 
 - [**SkinPro – Full Stack Desktop App**](https://github.com/brianjames-dev/SkinPro)  
   *(Python, SQLite, Flask, CustomTkinter, ReportLab, PIL)*
