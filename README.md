@@ -1,14 +1,20 @@
 # Hey, I'm Brian!
 
 ## Software Development Projects
-- [**Serverless Portfolio - Website**](https://github.com/brianjames-dev/portfolio-website)  
-  *(Javascript, React, CSS, HTML, AWS (S3, SES, Cloudfront, Lambda)*
+- [**snoozeAI – Smart Notification Triage**](https://github.com/brianjames-dev/snoozeAI)  
+  *(Python/FastAPI or Flask, React (frontend), Push/Local Notifications, SQLite)*
 
 - [**BookieBot – AI Agent | Finance**](https://github.com/brianjames-dev/bookiebot)  
   *(Python, Discord.py, Google Sheets API, OpenAI API, AsyncIO, Railway)*
 
+- **MarketScope – Local Ads & Lead Intelligence** *(private)*  
+  *(TypeScript/React, FastAPI, PostgreSQL/Redis, Google Ads & SerpAPI integration)*
+
 - [**SkinPro – Full Stack Desktop App**](https://github.com/brianjames-dev/SkinPro)  
   *(Python, SQLite, Flask, CustomTkinter, ReportLab, PIL)*
+
+- [**Serverless Portfolio - Website**](https://github.com/brianjames-dev/portfolio-website)  
+  *(JavaScript, React, CSS, HTML, AWS (S3, SES, CloudFront, Lambda))*
 
 - [**NES Emulator**](https://github.com/brianjames-dev/OSUcapstone)  
   *(C++, SDL2, Dear ImGUI)*
@@ -20,7 +26,6 @@
   *(Python, CustomTkinter, PIL)*
 
 ## Data Science Projects
-
 - [**Credit Card Fraud ML Models**](https://docs.google.com/document/d/1NGwQWTvUHTWkof20oiIK7vtYFCEij8GZ-qFOLGoWnKg/edit?usp=sharing)  
   *(Python, scikit-learn, Pandas, Matplotlib, NumPy, Kaggle)*
 
@@ -31,11 +36,11 @@
 
 <table>
   <tr>
-  <td style="border: none;">
-    <a href="mailto:brianjames.dev@gmail.com">
-      <img src="icons8-gmail-96.png" width="50" alt="Gmail" />
-    </a>
-  </td>
+    <td style="border: none;">
+      <a href="mailto:brianjames.dev@gmail.com">
+        <img src="icons8-gmail-96.png" width="50" alt="Gmail" />
+      </a>
+    </td>
     <td style="border: none;">
       <a href="https://www.linkedin.com/in/brianjames-dev/" target="_blank">
         <img src="icons8-linkedin-96.png" width="50" alt="LinkedIn" />
