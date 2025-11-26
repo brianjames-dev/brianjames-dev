@@ -25,7 +25,7 @@
 - [**passNerd – Password Manager App**](https://github.com/brianjames-dev/passNerd)  
   *(Python, CustomTkinter, PIL)*
 
-## Data Science Projects
+## DS/ML Projects
 - [**Credit Card Fraud ML Models**](https://docs.google.com/document/d/1NGwQWTvUHTWkof20oiIK7vtYFCEij8GZ-qFOLGoWnKg/edit?usp=sharing)  
   *(Python, scikit-learn, Pandas, Matplotlib, NumPy, Kaggle)*
 
