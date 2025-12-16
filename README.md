@@ -1,4 +1,4 @@
-# Hey, I'm Brian! 
+# Hey, I'm Brian!
 
 ## Software Development Projects
 - [**snoozeAI – Smart Notification Triage**](https://github.com/brianjames-dev/snoozeAI)  
